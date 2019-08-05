@@ -15,7 +15,7 @@ of the library.  I will not be making such modifications.
 
 As the code is written to accompany the book, I don't intend to add
 new features. However, bug reports are welcome, and you should feel
-free to fork and modify the code.
+free to fork and modify the code. Hm.
 
 ## License
 
